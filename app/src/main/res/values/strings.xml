@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose Essentials</string>
+    <string name="message_body">So far, you\'ve created a message UI element that displays an image and two texts with different styles, and it looks good both in light and dark themes!</string>
 </resources>
